@@ -22,6 +22,6 @@
 
 
 ## 🧠 Learning Goals
-- Real-time event handling with Socket.io
-- Full-stack JS application
-- 
+- 🔄 Socket.io Integration: Understood how to establish real-time, bi-directional communication between server and clients using WebSockets
+- 💬 User Experience: Designed a simple but responsive UI with minimal CSS to focus on functionality and clarity.
+- 💡 Debugging & Logging: Gained hands-on experience in debugging WebSocket flows and message broadcasting.
